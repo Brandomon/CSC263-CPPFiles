@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1638501287 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\main.cpp
+	"PersonData.h"
+	"CustomerData.h"
+	<iostream>
+	<iomanip>
+
+1638501287 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\persondata.cpp
+	"PersonData.h"
+
+1638501391 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\persondata.h
+	<iostream>
+
+1638501287 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\customerdata.cpp
+	"CustomerData.h"
+
+1638465673 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\customerdata.h
+	"PersonData.h"
+
+1638501287 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\customerdata.cpp
+	"CustomerData.h"
+
+1638465673 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\customerdata.h
+	"PersonData.h"
+
+1638501391 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\persondata.h
+	<iostream>
+
+1638501287 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\persondata.cpp
+	"PersonData.h"
+
+1638643162 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 9 - customerdata\main.cpp
+	"PersonData.h"
+	"CustomerData.h"
+	<iostream>
+	<iomanip>
+

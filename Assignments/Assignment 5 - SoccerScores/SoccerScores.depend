@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1634955422 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\soccerscores\player.cpp
+	"Player.h"
+
+1634955422 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\soccerscores\player.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1634955422 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\soccerscores\main.cpp
+	"Player.h"
+
+1634951822 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 5 - soccerscores\main.cpp
+	"Player.h"
+
+1634951822 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 5 - soccerscores\player.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1634951822 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 5 - soccerscores\player.cpp
+	"Player.h"
+
