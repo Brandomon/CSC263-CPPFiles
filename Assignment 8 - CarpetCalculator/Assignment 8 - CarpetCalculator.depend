@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1638258838 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\feetinches.cpp
+	<cstdlib>
+	"FeetInches.h"
+
+1638257264 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\main.cpp
+	"FeetInches.h"
+	"RoomDimension.h"
+	"RoomCarpet.h"
+	<iomanip>
+	<iostream>
+
+1638244036 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomcarpet.cpp
+	"RoomCarpet.h"
+
+1638243922 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\feetinches.h
+	<iostream>
+
+1638257052 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomdimension.cpp
+	"RoomDimension.h"
+
+1638243226 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomdimension.h
+	"FeetInches.h"
+
+1638243226 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomcarpet.h
+	"RoomDimension.h"
+
+1638258838 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\feetinches.cpp
+	<cstdlib>
+	"FeetInches.h"
+
+1638243922 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\feetinches.h
+	<iostream>
+
+1638257264 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\main.cpp
+	"FeetInches.h"
+	"RoomDimension.h"
+	"RoomCarpet.h"
+	<iomanip>
+	<iostream>
+
+1638243226 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomdimension.h
+	"FeetInches.h"
+
+1638243226 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomcarpet.h
+	"RoomDimension.h"
+
+1638244036 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomcarpet.cpp
+	"RoomCarpet.h"
+
+1638257052 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 8 - carpetcalculator\roomdimension.cpp
+	"RoomDimension.h"
+

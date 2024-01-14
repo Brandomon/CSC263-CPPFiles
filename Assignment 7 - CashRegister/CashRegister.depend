@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1637125582 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 6 - cashregister\cashregister.cpp
+	"CashRegister.h"
+
+1637125824 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 6 - cashregister\cashregister.h
+
+1637125582 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 6 - cashregister\inventoryitem.cpp
+	"InventoryItem.h"
+
+1637125582 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 6 - cashregister\inventoryitem.h
+	<string>
+
+1637125839 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 6 - cashregister\main.cpp
+	"InventoryItem.h"
+	<iostream>
+
+1637213738 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\cashregister.cpp
+	"CashRegister.h"
+
+1637213924 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\cashregister.h
+
+1637213738 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\inventoryitem.cpp
+	"InventoryItem.h"
+
+1637213738 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\inventoryitem.h
+	<string>
+
+1637214171 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\main.cpp
+	"InventoryItem.h"
+	"CashRegister.h"
+	<iostream>
+	<iomanip>
+
+1637213738 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\cashregister.cpp
+	"CashRegister.h"
+
+1637213924 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\cashregister.h
+
+1637213738 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\inventoryitem.cpp
+	"InventoryItem.h"
+
+1637213738 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\inventoryitem.h
+	<string>
+
+1637214171 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\assignments\assignment 7 - cashregister\main.cpp
+	"InventoryItem.h"
+	"CashRegister.h"
+	<iostream>
+	<iomanip>
+
