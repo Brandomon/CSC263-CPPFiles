@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1634849668 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\employeerecords\main.cpp
+	"Employee.h"
+
+1634850071 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\employeerecords\employee.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1634850048 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\employeerecords\employee.cpp
+	"Employee.h"
+
+1634853648 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\employeerecords\employee.cpp
+	"Employee.h"
+
+1634853671 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\employeerecords\employee.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1634853268 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\employeerecords\main.cpp
+	"Employee.h"
+

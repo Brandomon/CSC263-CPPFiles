@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636054886 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\numdays\main.cpp
+	"NumDays.h"
+
+1636055057 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\numdays\numdays.cpp
+	"NumDays.h"
+
+1636053112 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\numdays\numdays.h
+	<iostream>
+

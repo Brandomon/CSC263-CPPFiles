@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1631217491 source:c:\users\b.lapointe\onedrive\csc263\structexample\structfunctions.cpp
+
+1631218851 source:c:\users\b.lapointe\onedrive\csc263\structexample\main.cpp
+	"StructHeader.h"
+
+1631218909 c:\users\b.lapointe\onedrive\csc263\structexample\structheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631222707 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\structexample\main.cpp
+	"StructHeader.h"
+
+1631223549 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\structexample\structheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631222707 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\structexample\structfunctions.cpp
+	"StructHeader.h"
+

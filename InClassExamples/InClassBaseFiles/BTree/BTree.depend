@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1544639039 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\btree\employeeemp.cpp
+	"EmployeeEmp.h"
+
+1544638976 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\btree\employeeemp.h
+	<string>
+	<iostream>
+
+1638912214 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\inclassbasefiles\btree\employeeemp.cpp
+	"EmployeeEmp.h"
+
+1638912214 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\inclassbasefiles\btree\employeeemp.h
+	<string>
+	<iostream>
+
+1638912214 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\inclassbasefiles\btree\source.cpp
+	"BinaryTreeTemplate.h"
+	"EmployeeEmp.h"
+	<iostream>
+
+1638912214 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\inclassbasefiles\btree\binarytreetemplate.h
+	<iostream>
+

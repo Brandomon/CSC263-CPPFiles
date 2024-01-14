@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1638309093 source:c:\users\speciosr\onedrive - onondaga community college\csc110303fa21\linkedlistexample\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Stack.h"
+
+1638309085 c:\users\speciosr\onedrive - onondaga community college\csc110303fa21\linkedlistexample\linkedlist.h
+	<iostream>
+
+1638309200 c:\users\speciosr\onedrive - onondaga community college\csc110303fa21\linkedlistexample\stack.h
+	"LinkedList.h"
+
+1638478538 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\linkedlistwithstack\linkedlistexample\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Stack.h"
+
+1638478538 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\linkedlistwithstack\linkedlistexample\linkedlist.h
+	<iostream>
+
+1638478538 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\linkedlistwithstack\linkedlistexample\stack.h
+	"LinkedList.h"
+

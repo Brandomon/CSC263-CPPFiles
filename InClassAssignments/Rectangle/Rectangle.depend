@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634674425 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\rectangle\main.cpp
+	<iostream>
+	"Rectangle.h"
+
+1634675593 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\rectangle\rectangle.h
+	<iostream>
+
+1634675593 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\rectangle\rectangle.cpp
+	"Rectangle.h"
+

@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1635282168 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\main.cpp
+	"Patient.h"
+	"Procedure.h"
+	"Address.h"
+
+1635884169 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\patient.h
+	<iostream>
+	<iomanip>
+	"Person.h"
+	"Address.h"
+
+1635884169 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\patient.cpp
+	"Patient.h"
+
+1635358938 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\procedure.cpp
+	"Procedure.h"
+
+1635356596 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\procedure.h
+	<iostream>
+	<iomanip>
+
+1635362237 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\procedure.cpp
+	"Procedure.h"
+
+1635360196 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\procedure.h
+	<iostream>
+	<iomanip>
+
+1635285768 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\main.cpp
+	"Patient.h"
+	"Procedure.h"
+	"Address.h"
+
+1635360475 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\patient.h
+	<iostream>
+	<iomanip>
+	"Person.h"
+	"Address.h"
+
+1635360516 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\person.h
+	<iostream>
+	<iomanip>
+
+1635352960 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\address.h
+	<iostream>
+	<iomanip>
+
+1635360781 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\address.cpp
+	"Address.h"
+
+1635360798 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\person.cpp
+	"Person.h"
+
+1635362455 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\patient.cpp
+	"Patient.h"
+
+1635884280 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\person.h
+	<iostream>
+	<iomanip>
+
+1635349360 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\include\address.h
+	<iostream>
+	<iomanip>
+
+1635357181 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\address.cpp
+	"Address.h"
+
+1635357198 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientcharges\src\person.cpp
+	"Person.h"
+

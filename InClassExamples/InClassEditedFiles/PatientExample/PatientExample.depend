@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1635362997 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\address.cpp
+	"Address.h"
+
+1635362997 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\address.h
+	<iostream>
+	<iomanip>
+
+1635362997 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\procedure.cpp
+	"Procedure.h"
+
+1635362997 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\procedure.h
+	<iostream>
+
+1635362997 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\main.cpp
+	<iostream>
+	"Patient.h"
+	"Procedure.h"
+
+1635362997 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\patient.h
+	<iostream>
+	<iomanip>
+	"Address.h"
+	"Person.h"
+
+1635363068 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\person.h
+	<iostream>
+	<iomanip>
+
+1635362997 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\patientexample\person.cpp
+	"Person.h"
+
+1635359397 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\patientexample\main.cpp
+	<iostream>
+	"Patient.h"
+	"Procedure.h"
+
+1635359397 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\patientexample\patient.h
+	<iostream>
+	<iomanip>
+	"Address.h"
+	"Person.h"
+
+1635359397 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\patientexample\address.h
+	<iostream>
+	<iomanip>
+
+1635359468 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\patientexample\person.h
+	<iostream>
+	<iomanip>
+
+1635359397 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassexamples\patientexample\procedure.h
+	<iostream>
+

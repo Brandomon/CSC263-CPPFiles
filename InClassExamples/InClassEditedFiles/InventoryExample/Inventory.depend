@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1637092966 source:c:\prog\inventory\inventory.cpp
+	"inventory.h"
+
+1637091349 c:\prog\inventory\inventory.h
+	<string>
+	<iostream>
+	<fstream>
+
+1637092996 source:c:\prog\inventory\main.cpp
+	<iostream>
+	"Inventory.h"
+	<fstream>
+
+1637092966 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inventory\inventory.cpp
+	"inventory.h"
+
+1637091349 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inventory\inventory.h
+	<string>
+	<iostream>
+	<fstream>
+
+1637093168 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inventory\main.cpp
+	<iostream>
+	"Inventory.h"
+	<fstream>
+

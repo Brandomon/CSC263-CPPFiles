@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1631047145 source:c:\users\b.lapointe\onedrive\csc263\firstprogram\main.cpp
+	"MyPrototypes.h"
+
+1631047205 c:\users\b.lapointe\onedrive\csc263\firstprogram\myprototypes.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1631047238 source:c:\users\b.lapointe\onedrive\csc263\firstprogram\myfunctions.cpp
+	"MyPrototypes.h"
+
+1631050745 source:c:\users\bmlgu\onedrive\csc263\firstprogram\main.cpp
+	"MyPrototypes.h"
+
+1631050805 c:\users\bmlgu\onedrive\csc263\firstprogram\myprototypes.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1631051401 source:c:\users\bmlgu\onedrive\csc263\firstprogram\myfunctions.cpp
+	"MyPrototypes.h"
+
+1631050745 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\firstprogram\main.cpp
+	"MyPrototypes.h"
+
+1631050805 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\firstprogram\myprototypes.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1631051401 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\firstprogram\myfunctions.cpp
+	"MyPrototypes.h"
+

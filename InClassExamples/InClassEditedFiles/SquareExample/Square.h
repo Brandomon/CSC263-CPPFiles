@@ -1,0 +1,6 @@
+#ifndef SQUARE_H_INCLUDED
+#define SQUARE_H_INCLUDED
+
+
+
+#endif // SQUARE_H_INCLUDED

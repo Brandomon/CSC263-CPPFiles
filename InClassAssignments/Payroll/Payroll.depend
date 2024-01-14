@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1631651343 source:c:\users\b.lapointe\onedrive\csc263\payroll\main.cpp
+	<iostream>
+	"Payroll.h"
+
+1631651004 c:\users\b.lapointe\onedrive\csc263\payroll\payroll.h
+	<iostream>
+	<iomanip>
+
+1631651315 source:c:\users\b.lapointe\onedrive\csc263\payroll\payroll.cpp
+	"Payroll.h"
+
+1631651343 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\payroll\main.cpp
+	<iostream>
+	"Payroll.h"
+
+1631651004 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\payroll\payroll.h
+	<iostream>
+	<iomanip>
+
+1631651762 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\payroll\payroll.cpp
+	"Payroll.h"
+

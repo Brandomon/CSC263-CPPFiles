@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633638059 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\24lines\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

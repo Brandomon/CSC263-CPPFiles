@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1637270100 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\main.cpp
+	<iostream>
+	"Square.h"
+	"Cube.h"
+	"Cube2.h"
+
+1637269285 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\rectangle.cpp
+	"Rectangle.h"
+
+1637269343 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\rectangle.h
+	<iostream>
+
+1637269415 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\square.cpp
+	"Square.h"
+
+1637269978 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\square.h
+	"Rectangle.h"
+
+1637269625 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\src\cube.cpp
+	"Cube.h"
+
+1637270005 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\include\cube.h
+	"../Rectangle.h"
+
+1637269245 source:c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\cube2.cpp
+	"Cube2.h"
+
+1637272271 c:\users\speciosr\onedrive - onondaga community college\csc263503fa21\inheritexample\cube2.h
+	"Square.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1632885344 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\arrayexpanderandreverse\arrayexpanderandreversefunctions.cpp
+	"ArrayExpanderAndReverse.h"
+
+1632875730 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\arrayexpanderandreverse\arrayexpanderandreverse.h
+	<string>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1635827653 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\arrayexpanderandreverse\main.cpp
+	"ArrayExpanderAndReverse.h"
+

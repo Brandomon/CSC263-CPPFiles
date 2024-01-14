@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1631221224 source:c:\users\b.lapointe\onedrive\csc263\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
+1631221036 c:\users\b.lapointe\onedrive\csc263\corporatesalesdata\corporatesalesheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631231699 source:c:\users\bmlgu\onedrive\csc263\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
+1631231792 c:\users\bmlgu\onedrive\csc263\corporatesalesdata\corporatesalesheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631231305 source:c:\users\bmlgu\onedrive\csc263\corporatesalesdata\main.cpp
+	"CorporateSalesHeader.h"
+
+1631231699 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
+1631231792 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\corporatesalesdata\corporatesalesheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631231305 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\corporatesalesdata\main.cpp
+	"CorporateSalesHeader.h"
+
+1631649628 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
+1631228192 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\corporatesalesdata\corporatesalesheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631227705 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\corporatesalesdata\main.cpp
+	"CorporateSalesHeader.h"
+
+1631649628 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
+1631228192 c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\corporatesalesheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631227705 source:c:\users\b.lapointe\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\main.cpp
+	"CorporateSalesHeader.h"
+
+1631653228 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
+1633290057 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\corporatesalesheader.h
+	<string>
+	<iostream>
+	<iomanip>
+
+1631231305 source:c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\main.cpp
+	"CorporateSalesHeader.h"
+
+1631653228 c:\users\bmlgu\onedrive - onondaga community college\4th semester\csc 263-502\inclassassignments\corporatesalesdata\corporatesalesfunctions.cpp
+	"CorporateSalesHeader.h"
+
